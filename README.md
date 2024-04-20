@@ -1,6 +1,15 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center"> Hola, soy <a href="https://github.com/mcdev024">Mauricio</a> 👋 </h1>
+</div>
 
-<!--
+- 👀 Estoy interesado en programación web, me gusta la parte del diseño FrontEnd, pero también tengo curiosidad por todo lo que ocurre detrás, en el BackEnd
+- 🌱 En constante aprendizaje: FullStack Developer, actualizando conocimientos y explorando nuevos caminos.
+- 💞️ Busco colaborar en todo proyecto interesante, ¡no existen dificultades cuando el entusiasmo es superior!
+- 📫 Puedes contactarme al e-mail mauriciocolinalr@gmail.com
+<h2 align="center">"el fracaso es sólo un paso en el camino hacia el éxito" </h2>
+
+
+<!---
 **mcdev024/mcdev024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--->
