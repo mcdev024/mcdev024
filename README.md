@@ -48,8 +48,6 @@
   <a href="https://github.com/mcdev024/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcdev024&layout=compact&theme=buefy&hide_border=true" /></a> 
 </div>
 
-<hr>
-
 
 <!---
 **mcdev024/mcdev024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
