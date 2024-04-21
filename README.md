@@ -1,11 +1,14 @@
 <div align="center">
 <h1 align="center"> Hola, soy <a href="https://github.com/mcdev024">Mauricio</a> 👋 </h1>
 </div>
+<img src="encabezado_GitHub_001.png" alt="encabezado GitHub">
 
+## Sobre mi
 - 👀 Estoy interesado en programación web, me gusta la parte del diseño FrontEnd, pero también tengo curiosidad por todo lo que ocurre detrás, en el BackEnd
 - 🌱 En constante aprendizaje: FullStack Developer, actualizando conocimientos y explorando nuevos caminos.
 - 💞️ Busco colaborar en todo proyecto interesante, ¡no existen dificultades cuando el entusiasmo es superior!
 - 📫 Puedes contactarme al e-mail mauriciocolinalr@gmail.com
+
 <h2 align="center">"el fracaso es sólo un paso en el camino hacia el éxito" </h2>
 
 
